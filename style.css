@@ -1,0 +1,28 @@
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3em;
+    color: #47b1ab;
+    text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.3);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #062197;
+}
+ li{
+    font-size: 1.2em;
+    color: #f70000;
+    line-height: 1.5;
+    margin: 10px 0;
+}
+a {
+    text-decoration: none;
+    color: #160ca8;
+    transition: color 0.3s ease;
+}
+ul {
+    list-style-type: disc;
+    padding: auto;
+    font-family: fantasy;
+}
